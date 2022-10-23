@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent i = new Intent(MainActivity.this,secondactivity.class);
                 startActivity(i);
                 //10.23 14:45 test1
+                //18:23 test2
 
             }
         });
