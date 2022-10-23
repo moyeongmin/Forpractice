@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 Intent i = new Intent(MainActivity.this,secondactivity.class);
                 startActivity(i);
                 //test for commit 14:51
+                //second commit 18:13
 
             }
         });
